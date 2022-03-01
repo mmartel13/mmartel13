@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### Technologies
+## Technologies
 
 <img src="./technologies.png" height="20px">
 
