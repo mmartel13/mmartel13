@@ -20,7 +20,7 @@
 
 ## Technologies
 
-<img src="./technologies.png" height="20px">
+<img src="./technologies.png" height="50px">
 
 </div>
 
