@@ -1,6 +1,6 @@
 #### Howdy 🤠
 
-# <h2 align="center"> Welcome to my Github! </h1>
+# <h2 align="center"> Welcome to my GitHub! </h1>
 
 <div align="center">
 
