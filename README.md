@@ -10,7 +10,7 @@
 
 <div align="center">
 
- Currently studying to be a full stack developer<br>
+ Full Stack Software Engineer<br>
  Curious about all things code and excited to keep learning 🤓
  <br>
 
